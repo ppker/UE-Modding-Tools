@@ -516,7 +516,7 @@ Guides that are useful for modding UE games.
 * [Unreal Modding Guides](https://tempo-organization.github.io/Unreal-Modding-Guides/) - Written by **Mythical**
     - This site is a collection of useful guides for Unreal Engine modding
     - Examples for working with Blueprints, engine functions, materials, and more
-* [UE4 Modding Guide](https://bananaturtlesandwich.github.io/UE4-Modding-Guide/) - Written by **Spuds**
+* [UE4 Modding Guide](https://uemodding.spuds.casa/) - Written by **Spuds**
     - A general guide for Unreal Engine 4 game modding
 * [Setting up UE as git merge tool for BPs](https://gist.github.com/Panakotta00/c90d1017b89b4853e8b97d13501b2e62) - Written by **Panakotta00**
 * [UE4 Networking for BP](https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - Written by **Cedric Neukirchen**
