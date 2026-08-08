@@ -237,7 +237,7 @@ Tools that generate SDKs and dump the game's code.
 
 ## Editor Asset Generators
 Tools that generate assets for the Unreal Engine Editor. Allows you to reconstruct the game's assets in the editor, in your own project. Saves a heap of time with manually dummying assets for blueprint modding. Example modkit projects can be found in the [Game Specific Modkits](https://github.com/Buckminsterfullerene02/UE-Modding-Tools#game-specific-modkits) section. 
-* [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) - Written by **[Tectors](https://github.com/Tectors) & in collaboration with [GMatrixGames](https://github.com/GMatrixGames)**
+* [Reflection](https://github.com/JsonAsAsset/Reflection) - Written by **[Tectors](https://github.com/Tectors) & in collaboration with [GMatrixGames](https://github.com/GMatrixGames)**
     - Powerful Unreal Engine Plugin that imports assets from FModel
     - Supports 4.26 to 4.27.2 and all of UE5
 * [UnrealPskPSA](https://github.com/djhaled/UnrealPSKPSA) - Written by **halfuwu & bK**
